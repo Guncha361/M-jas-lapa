@@ -6,7 +6,7 @@ body {
 .img-saulriets{
   width:300px;
   position: absolute;
-  right: 600px;
+  right: 1500px;
   top: 150px;
 }
 
@@ -14,14 +14,21 @@ body {
 .img-samilovs{
   width:300px;
   position: absolute;
-  right: 600px;
+  right: 1500px;
   top: 400px;
 }
 
 .video{
   width:500px;
   position: absolute;
-  right: 400px;
+  right: 1200px;
   top: 650px;
+}
+
+.img-vesture{
+  width: 300px;
+  position: absolute;
+  right: 1500px;
+  top: 300px;
 }
 
