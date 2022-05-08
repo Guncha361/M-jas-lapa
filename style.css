@@ -1,5 +1,5 @@
 body {
-  background-color: #ffa500 ;
+  background-color: #ff995e ;
 }
 
 
@@ -30,5 +30,12 @@ body {
   position: absolute;
   right: 1500px;
   top: 300px;
+}
+
+.img-zinasanas{
+  width: 300px;
+  position: absolute;
+  right: 1500px;
+  top: 600px;
 }
 
