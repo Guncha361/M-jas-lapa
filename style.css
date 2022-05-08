@@ -1,0 +1,27 @@
+body {
+  background-color: #ffa500 ;
+}
+
+
+.img-saulriets{
+  width:300px;
+  position: absolute;
+  right: 600px;
+  top: 150px;
+}
+
+
+.img-samilovs{
+  width:300px;
+  position: absolute;
+  right: 600px;
+  top: 400px;
+}
+
+.video{
+  width:500px;
+  position: absolute;
+  right: 400px;
+  top: 650px;
+}
+
